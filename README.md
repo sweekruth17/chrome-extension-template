@@ -33,3 +33,8 @@ npm run build
 ```
 
 This should create a production bundle for your extension, ready to be zipped and published to the stores.
+![image](https://github.com/sweekruth17/chrome-extension-template/assets/55882537/408d41ea-40a7-4922-9348-63fc6d7e8241)
+![image](https://github.com/sweekruth17/chrome-extension-template/assets/55882537/fc5832a4-9659-45d5-87f5-7dbbbe07070c)
+
+
+
