@@ -1,4 +1,4 @@
-# Project for ChatGPT Writer 
+# Project 
 
 This is a [Plasmo extension](https://docs.plasmo.com/) project bootstrapped with command: `pnpm create plasmo --with-tailwindcss`.
 
