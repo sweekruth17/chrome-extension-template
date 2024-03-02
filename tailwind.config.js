@@ -2,5 +2,12 @@
 module.exports = {
   mode: "jit",
   content: ["./**/*.{ts,tsx}"],
-  plugins: []
+  plugins: [],
+  theme: {
+    extend: {
+      fontFamily: {
+        popup: ["Inter"]
+      }
+    }
+  }
 }

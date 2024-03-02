@@ -3,3 +3,15 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+.ai-button {
+  color: red;
+}
+button#uniqueaibutton {
+  width: 32px;
+  height: 32px;
+  right: 0;
+  position: absolute;
+  bottom: 0;
+  margin: 0 60px 10px;
+}
