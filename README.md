@@ -1,4 +1,4 @@
-# ChatGPT Writer Take-Home Coding Assignment
+# Project for ChatGPT Writer 
 
 This is a [Plasmo extension](https://docs.plasmo.com/) project bootstrapped with command: `pnpm create plasmo --with-tailwindcss`.
 
