@@ -38,4 +38,5 @@ This should create a production bundle for your extension, ready to be zipped an
 ![image](https://github.com/sweekruth17/chrome-extension-template/assets/55882537/2e02dac3-3d6c-4f38-be53-456d29d44763)
 
 
+[screen-capture.webm](https://github.com/sweekruth17/project-plugin/assets/55882537/28e74f15-327e-4978-8b85-283be9c56012)
 
